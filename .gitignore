@@ -1,6 +1,2 @@
-# Byte-compiled / optimized / DLL files
-*.pyc
-__pycache__/
-
-# abapgit editor files
+# Editor backup files
 *.bak
